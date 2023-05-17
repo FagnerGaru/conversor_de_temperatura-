@@ -11,7 +11,7 @@ public class temperatura {
 		  System.out.println("O resultado é"  + celsius + "C°");
 		  
 		  
-		  fahrenheit = 10;
+		  fahrenheit = 90;
 		  celsius = (fahrenheit - AJUSTE) *FATOR ;
 		  System.out.println("O resultado é"  + celsius + "C°");
 		  
